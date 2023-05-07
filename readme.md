@@ -1,0 +1,1 @@
+Script para iniciar el index.js es "operacion" conjunto a lo que se quiere realizar "registrar" o "leer".
